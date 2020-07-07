@@ -1,9 +1,9 @@
 <template>
-  <main class="lg:mt-24">
-    <div class="py-6 mr-4 lg:mr-24">
+  <main class="lg:mt-24 flex">
+    <div class="py-6 mx-auto">
       <CatCard v-for="cat in getCats" :key="cat.id" :cat="cat" />
       <div class="flex items-center pt-6 justify-center">
-        <div class="mx-4 mt-10 lg:ml-24">
+        <div class="mx-4 mt-10">
           <button
             id="unlike"
             type="button"

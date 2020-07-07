@@ -1,6 +1,6 @@
 <template>
-  <div class="lg:flex lg:-ml-24">
-    <div class="md:ml-48 lg:ml-56 lg:pl-4 xl:ml-72">
+  <div class="lg:flex xl:justify-center">
+    <div>
       <img :src="cat.catData[0].url" class="h-96 rounded-lg w-72 ml-3 cursor-pointer" />
       <div class="absolute bg-white ml-3 -mt-16 w-72 h-24 border-2">
         <div class="flex items-center">
