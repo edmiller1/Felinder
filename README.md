@@ -1,4 +1,11 @@
-# felinder
+# Felinder
+
+![alt text](https://github.com/edmiller1/felinder/blob/main/felinder.png?raw=true)
+
+# Built with:
+  * [VueJS](https://vuejs.org/)
+  * [Tailwind CSS](https://tailwindcss.com/)
+  * [TheCatAPI](https://thecatapi.com/)
 
 An application similar to Tinder that allows users to unmatch, match or super-like cats based on picture, distance and age.
 
