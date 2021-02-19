@@ -1,6 +1,6 @@
 # Felinder
 
-![alt text](https://github.com/edmiller1/felinder/blob/main/felinder.png?raw=true)
+![alt text](https://github.com/edmiller1/Felinder/blob/master/felinder.png?raw=true)
 
 # Built with:
   * [VueJS](https://vuejs.org/)
