@@ -4,7 +4,7 @@
 
 # Built with:
   * [VueJS](https://vuejs.org/)
-  * [Tailwind CSS](https://tailwindcss.com/)
+  * [TailwindCSS](https://tailwindcss.com/)
   * [TheCatAPI](https://thecatapi.com/)
 
 An application similar to Tinder that allows users to unmatch, match or super-like cats based on picture, distance and age.
